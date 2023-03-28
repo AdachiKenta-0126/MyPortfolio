@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on MyPortfolio</title>
+    <link>https://AdachiKenta-0126.github.io/portfolio/projects/</link>
+    <description>Recent content in Projects on MyPortfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Tue, 07 Jan 2020 15:00:28 +0000</lastBuildDate><atom:link href="https://AdachiKenta-0126.github.io/portfolio/projects/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

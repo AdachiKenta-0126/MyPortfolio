@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Swift on MyPortfolio</title>
+    <link>https://AdachiKenta-0126.github.io/portfolio/tags/swift/</link>
+    <description>Recent content in Swift on MyPortfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language><atom:link href="https://AdachiKenta-0126.github.io/portfolio/tags/swift/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AITGO</title>
+      <link>https://AdachiKenta-0126.github.io/portfolio/projects/creations/marketplace/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AdachiKenta-0126.github.io/portfolio/projects/creations/marketplace/</guid>
+      <description>グループ演習の講義内にて大学内で遊べるゲームをテーマに3人で作成した通信型AR対戦ゲーム </description>
+    </item>
+    
+  </channel>
+</rss>
