@@ -2,179 +2,179 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on MyPortfolio</title>
-    <link>https://AdachiKenta-0126.github.io/portfolio/tags/</link>
+    <link>https://AdachiKenta-0126.github.io/MyPortfolio/tags/</link>
     <description>Recent content in Tags on MyPortfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Tue, 08 Nov 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://AdachiKenta-0126.github.io/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Nov 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://AdachiKenta-0126.github.io/MyPortfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>agile</title>
-      <link>https://AdachiKenta-0126.github.io/portfolio/tags/agile/</link>
+      <link>https://AdachiKenta-0126.github.io/MyPortfolio/tags/agile/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://AdachiKenta-0126.github.io/portfolio/tags/agile/</guid>
+      <guid>https://AdachiKenta-0126.github.io/MyPortfolio/tags/agile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Continuous Delivery</title>
-      <link>https://AdachiKenta-0126.github.io/portfolio/tags/continuous-delivery/</link>
+      <link>https://AdachiKenta-0126.github.io/MyPortfolio/tags/continuous-delivery/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://AdachiKenta-0126.github.io/portfolio/tags/continuous-delivery/</guid>
+      <guid>https://AdachiKenta-0126.github.io/MyPortfolio/tags/continuous-delivery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Continuous Integration</title>
-      <link>https://AdachiKenta-0126.github.io/portfolio/tags/continuous-integration/</link>
+      <link>https://AdachiKenta-0126.github.io/MyPortfolio/tags/continuous-integration/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://AdachiKenta-0126.github.io/portfolio/tags/continuous-integration/</guid>
+      <guid>https://AdachiKenta-0126.github.io/MyPortfolio/tags/continuous-integration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Culture</title>
-      <link>https://AdachiKenta-0126.github.io/portfolio/tags/culture/</link>
+      <link>https://AdachiKenta-0126.github.io/MyPortfolio/tags/culture/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://AdachiKenta-0126.github.io/portfolio/tags/culture/</guid>
+      <guid>https://AdachiKenta-0126.github.io/MyPortfolio/tags/culture/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DevOps</title>
-      <link>https://AdachiKenta-0126.github.io/portfolio/tags/devops/</link>
+      <link>https://AdachiKenta-0126.github.io/MyPortfolio/tags/devops/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://AdachiKenta-0126.github.io/portfolio/tags/devops/</guid>
+      <guid>https://AdachiKenta-0126.github.io/MyPortfolio/tags/devops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>apache</title>
-      <link>https://AdachiKenta-0126.github.io/portfolio/tags/apache/</link>
+      <link>https://AdachiKenta-0126.github.io/MyPortfolio/tags/apache/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
       
-      <guid>https://AdachiKenta-0126.github.io/portfolio/tags/apache/</guid>
+      <guid>https://AdachiKenta-0126.github.io/MyPortfolio/tags/apache/</guid>
       <description></description>
     </item>
     
     <item>
       <title>redirect</title>
-      <link>https://AdachiKenta-0126.github.io/portfolio/tags/redirect/</link>
+      <link>https://AdachiKenta-0126.github.io/MyPortfolio/tags/redirect/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
       
-      <guid>https://AdachiKenta-0126.github.io/portfolio/tags/redirect/</guid>
+      <guid>https://AdachiKenta-0126.github.io/MyPortfolio/tags/redirect/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rewrite</title>
-      <link>https://AdachiKenta-0126.github.io/portfolio/tags/rewrite/</link>
+      <link>https://AdachiKenta-0126.github.io/MyPortfolio/tags/rewrite/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
       
-      <guid>https://AdachiKenta-0126.github.io/portfolio/tags/rewrite/</guid>
+      <guid>https://AdachiKenta-0126.github.io/MyPortfolio/tags/rewrite/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ssl</title>
-      <link>https://AdachiKenta-0126.github.io/portfolio/tags/ssl/</link>
+      <link>https://AdachiKenta-0126.github.io/MyPortfolio/tags/ssl/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
       
-      <guid>https://AdachiKenta-0126.github.io/portfolio/tags/ssl/</guid>
+      <guid>https://AdachiKenta-0126.github.io/MyPortfolio/tags/ssl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>web development</title>
-      <link>https://AdachiKenta-0126.github.io/portfolio/tags/web-development/</link>
+      <link>https://AdachiKenta-0126.github.io/MyPortfolio/tags/web-development/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
       
-      <guid>https://AdachiKenta-0126.github.io/portfolio/tags/web-development/</guid>
+      <guid>https://AdachiKenta-0126.github.io/MyPortfolio/tags/web-development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bluetooth</title>
-      <link>https://AdachiKenta-0126.github.io/portfolio/tags/bluetooth/</link>
+      <link>https://AdachiKenta-0126.github.io/MyPortfolio/tags/bluetooth/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://AdachiKenta-0126.github.io/portfolio/tags/bluetooth/</guid>
+      <guid>https://AdachiKenta-0126.github.io/MyPortfolio/tags/bluetooth/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CI/CD pipelines</title>
-      <link>https://AdachiKenta-0126.github.io/portfolio/tags/ci/cd-pipelines/</link>
+      <link>https://AdachiKenta-0126.github.io/MyPortfolio/tags/ci/cd-pipelines/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://AdachiKenta-0126.github.io/portfolio/tags/ci/cd-pipelines/</guid>
+      <guid>https://AdachiKenta-0126.github.io/MyPortfolio/tags/ci/cd-pipelines/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>https://AdachiKenta-0126.github.io/portfolio/tags/hugo/</link>
+      <link>https://AdachiKenta-0126.github.io/MyPortfolio/tags/hugo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://AdachiKenta-0126.github.io/portfolio/tags/hugo/</guid>
+      <guid>https://AdachiKenta-0126.github.io/MyPortfolio/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>iOS</title>
-      <link>https://AdachiKenta-0126.github.io/portfolio/tags/ios/</link>
+      <link>https://AdachiKenta-0126.github.io/MyPortfolio/tags/ios/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://AdachiKenta-0126.github.io/portfolio/tags/ios/</guid>
+      <guid>https://AdachiKenta-0126.github.io/MyPortfolio/tags/ios/</guid>
       <description></description>
     </item>
     
     <item>
       <title>iPhone</title>
-      <link>https://AdachiKenta-0126.github.io/portfolio/tags/iphone/</link>
+      <link>https://AdachiKenta-0126.github.io/MyPortfolio/tags/iphone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://AdachiKenta-0126.github.io/portfolio/tags/iphone/</guid>
+      <guid>https://AdachiKenta-0126.github.io/MyPortfolio/tags/iphone/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Objective-C</title>
-      <link>https://AdachiKenta-0126.github.io/portfolio/tags/objective-c/</link>
+      <link>https://AdachiKenta-0126.github.io/MyPortfolio/tags/objective-c/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://AdachiKenta-0126.github.io/portfolio/tags/objective-c/</guid>
+      <guid>https://AdachiKenta-0126.github.io/MyPortfolio/tags/objective-c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Swift</title>
-      <link>https://AdachiKenta-0126.github.io/portfolio/tags/swift/</link>
+      <link>https://AdachiKenta-0126.github.io/MyPortfolio/tags/swift/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://AdachiKenta-0126.github.io/portfolio/tags/swift/</guid>
+      <guid>https://AdachiKenta-0126.github.io/MyPortfolio/tags/swift/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Web</title>
-      <link>https://AdachiKenta-0126.github.io/portfolio/tags/web/</link>
+      <link>https://AdachiKenta-0126.github.io/MyPortfolio/tags/web/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://AdachiKenta-0126.github.io/portfolio/tags/web/</guid>
+      <guid>https://AdachiKenta-0126.github.io/MyPortfolio/tags/web/</guid>
       <description></description>
     </item>
     
     <item>
       <title>アプリ</title>
-      <link>https://AdachiKenta-0126.github.io/portfolio/tags/%E3%82%A2%E3%83%97%E3%83%AA/</link>
+      <link>https://AdachiKenta-0126.github.io/MyPortfolio/tags/%E3%82%A2%E3%83%97%E3%83%AA/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://AdachiKenta-0126.github.io/portfolio/tags/%E3%82%A2%E3%83%97%E3%83%AA/</guid>
+      <guid>https://AdachiKenta-0126.github.io/MyPortfolio/tags/%E3%82%A2%E3%83%97%E3%83%AA/</guid>
       <description></description>
     </item>
     
