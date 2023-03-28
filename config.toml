@@ -1,5 +1,5 @@
 title = "MyPortfolio"
-baseURL = "https://AdachiKenta-0126.github.io/"
+baseURL = "https://AdachiKenta-0126.github.io/MyPortfolio/"
 publishDir = "docs"
 theme = "hugo-resume"
 languageCode = "ja-jp"
