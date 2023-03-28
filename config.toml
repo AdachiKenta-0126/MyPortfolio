@@ -1,5 +1,5 @@
 title = "MyPortfolio"
-baseURL = "https://AdachiKenta-0126.github.io/portfolio/"
+baseURL = "https://AdachiKenta-0126.github.io/"
 publishDir = "docs"
 theme = "hugo-resume"
 languageCode = "ja-jp"
@@ -7,6 +7,7 @@ PygmentsCodeFences = true
 PygmentsCodeFencesGuessSyntax = true
 PygmentsStyle = "monokai"
 enableGitInfo = false
+canonifyurls = true
 
 [params]
 address = "Rollinsford, NH"
