@@ -10,7 +10,7 @@ enableGitInfo = false
 canonifyurls = true
 
 [params]
-address = "Rollinsford, NH"
+address = "MailAddress"
 email = "shaluocilanzhe@gmail.com"
 favicon = "/favicon.ico"
 firstName = "Adachi"

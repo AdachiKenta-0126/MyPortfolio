@@ -5,14 +5,15 @@
     <link>https://AdachiKenta-0126.github.io/MyPortfolio/tags/hugo/</link>
     <description>Recent content in hugo on MyPortfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja-jp</language><atom:link href="https://AdachiKenta-0126.github.io/MyPortfolio/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja-jp</language>
+    <lastBuildDate>Thu, 30 Mar 2023 13:09:47 +0900</lastBuildDate><atom:link href="https://AdachiKenta-0126.github.io/MyPortfolio/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ワークショップWebページの作成</title>
-      <link>https://AdachiKenta-0126.github.io/MyPortfolio/projects/creations/docker-marketplace/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>https://AdachiKenta-0126.github.io/MyPortfolio/projects/creations/summerworkshop/</link>
+      <pubDate>Thu, 30 Mar 2023 13:09:47 +0900</pubDate>
       
-      <guid>https://AdachiKenta-0126.github.io/MyPortfolio/projects/creations/docker-marketplace/</guid>
-      <description>毎年開催されているサマーワークショップという他大学合同のワークショップのWebサイト，フォームの作成を行った </description>
+      <guid>https://AdachiKenta-0126.github.io/MyPortfolio/projects/creations/summerworkshop/</guid>
+      <description>毎年夏に会場持ち回りで開催される,学生が主体となって運営するワークショップである サマーワークショップにて,Webサイト,フォームの作成,司会や各方面への連絡を含む運営を行った． </description>
     </item>
     
   </channel>
