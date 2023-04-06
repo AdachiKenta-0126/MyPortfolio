@@ -9,7 +9,7 @@ description: "ノード同士を繋げることで処理を実行できる<br>
 "
 tags: ["Swift","MacOS","画像処理","ビジュアルプログラミング"]
 image: "/img/visualProgramImage.png"
-link: "URL linked from project details page"
+link: ""
 fact: "Interesting little tidbit shown below image on summary and detail page"
 weight: 500
 sitemap:
