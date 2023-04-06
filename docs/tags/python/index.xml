@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on MyPortfolio</title>
+    <link>https://AdachiKenta-0126.github.io/MyPortfolio/tags/python/</link>
+    <description>Recent content in Python on MyPortfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Thu, 06 Apr 2023 12:56:46 +0900</lastBuildDate><atom:link href="https://AdachiKenta-0126.github.io/MyPortfolio/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DrawSimulator</title>
+      <link>https://AdachiKenta-0126.github.io/MyPortfolio/projects/creations/carddraw/</link>
+      <pubDate>Thu, 06 Apr 2023 12:56:46 +0900</pubDate>
+      
+      <guid>https://AdachiKenta-0126.github.io/MyPortfolio/projects/creations/carddraw/</guid>
+      <description>Pythonを用いて作成，デスクトップ上で起動するアプリケーション
+実行して，デッキ情報の入ったCSV形式のファイルを選択し，
+手札枚数を選ぶと手札がランダムに表示される
+「カードを引く」ボタンを押すたびに表示が更新される </description>
+    </item>
+    
+  </channel>
+</rss>

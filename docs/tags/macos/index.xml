@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MacOS on MyPortfolio</title>
+    <link>https://AdachiKenta-0126.github.io/MyPortfolio/tags/macos/</link>
+    <description>Recent content in MacOS on MyPortfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Thu, 06 Apr 2023 13:51:34 +0900</lastBuildDate><atom:link href="https://AdachiKenta-0126.github.io/MyPortfolio/tags/macos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>画像処理のビジュアルプログラミング</title>
+      <link>https://AdachiKenta-0126.github.io/MyPortfolio/projects/creations/visualprogramming/</link>
+      <pubDate>Thu, 06 Apr 2023 13:51:34 +0900</pubDate>
+      
+      <guid>https://AdachiKenta-0126.github.io/MyPortfolio/projects/creations/visualprogramming/</guid>
+      <description>ノード同士を繋げることで処理を実行できる
+プログラミングのことをビジュアルプログラミングという
+これは画像処理をビジュアルプログラミングに対応させたものである
+Swiftを使って作成したためMacOS上で動作する
+サマーワークショップ2020にて発表を行った </description>
+    </item>
+    
+  </channel>
+</rss>

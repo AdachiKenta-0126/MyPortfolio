@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iPad on MyPortfolio</title>
+    <link>https://AdachiKenta-0126.github.io/MyPortfolio/tags/ipad/</link>
+    <description>Recent content in iPad on MyPortfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Thu, 06 Apr 2023 13:49:42 +0900</lastBuildDate><atom:link href="https://AdachiKenta-0126.github.io/MyPortfolio/tags/ipad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>競卓</title>
+      <link>https://AdachiKenta-0126.github.io/MyPortfolio/projects/creations/kyoutaku/</link>
+      <pubDate>Thu, 06 Apr 2023 13:49:42 +0900</pubDate>
+      
+      <guid>https://AdachiKenta-0126.github.io/MyPortfolio/projects/creations/kyoutaku/</guid>
+      <description>学部時代に行っていた卒業研究
+卓球の試合映像を見ながら打法を入力することで試合の分析を行う
+複数試合のデータを集め，各選手に対する有効な一打を判断することができる </description>
+    </item>
+    
+  </channel>
+</rss>

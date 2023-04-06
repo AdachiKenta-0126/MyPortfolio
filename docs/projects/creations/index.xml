@@ -8,6 +8,53 @@
     <language>ja-jp</language>
     <lastBuildDate>Tue, 07 Jan 2020 15:00:28 +0000</lastBuildDate><atom:link href="https://AdachiKenta-0126.github.io/MyPortfolio/projects/creations/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>画像処理のビジュアルプログラミング</title>
+      <link>https://AdachiKenta-0126.github.io/MyPortfolio/projects/creations/visualprogramming/</link>
+      <pubDate>Thu, 06 Apr 2023 13:51:34 +0900</pubDate>
+      
+      <guid>https://AdachiKenta-0126.github.io/MyPortfolio/projects/creations/visualprogramming/</guid>
+      <description>ノード同士を繋げることで処理を実行できる
+プログラミングのことをビジュアルプログラミングという
+これは画像処理をビジュアルプログラミングに対応させたものである
+Swiftを使って作成したためMacOS上で動作する
+サマーワークショップ2020にて発表を行った </description>
+    </item>
+    
+    <item>
+      <title>パントマイムセンシング</title>
+      <link>https://AdachiKenta-0126.github.io/MyPortfolio/projects/creations/pantomime/</link>
+      <pubDate>Thu, 06 Apr 2023 13:50:47 +0900</pubDate>
+      
+      <guid>https://AdachiKenta-0126.github.io/MyPortfolio/projects/creations/pantomime/</guid>
+      <description>このアプリでは事前研究で得られた上手さと加速度センサのノルムの平均の関係から得られた
+回帰直線の式を用いてセンシングを行い，センシング結果からパントマイムの上手さの評価を行う
+以下の図のように状況によって加速度センサのノルムの値に特徴が出ることが示唆された </description>
+    </item>
+    
+    <item>
+      <title>競卓</title>
+      <link>https://AdachiKenta-0126.github.io/MyPortfolio/projects/creations/kyoutaku/</link>
+      <pubDate>Thu, 06 Apr 2023 13:49:42 +0900</pubDate>
+      
+      <guid>https://AdachiKenta-0126.github.io/MyPortfolio/projects/creations/kyoutaku/</guid>
+      <description>学部時代に行っていた卒業研究
+卓球の試合映像を見ながら打法を入力することで試合の分析を行う
+複数試合のデータを集め，各選手に対する有効な一打を判断することができる </description>
+    </item>
+    
+    <item>
+      <title>DrawSimulator</title>
+      <link>https://AdachiKenta-0126.github.io/MyPortfolio/projects/creations/carddraw/</link>
+      <pubDate>Thu, 06 Apr 2023 12:56:46 +0900</pubDate>
+      
+      <guid>https://AdachiKenta-0126.github.io/MyPortfolio/projects/creations/carddraw/</guid>
+      <description>Pythonを用いて作成，デスクトップ上で起動するアプリケーション
+実行して，デッキ情報の入ったCSV形式のファイルを選択し，
+手札枚数を選ぶと手札がランダムに表示される
+「カードを引く」ボタンを押すたびに表示が更新される </description>
+    </item>
+    
+    <item>
       <title>ワークショップWebページの作成</title>
       <link>https://AdachiKenta-0126.github.io/MyPortfolio/projects/creations/summerworkshop/</link>
       <pubDate>Thu, 30 Mar 2023 13:09:47 +0900</pubDate>

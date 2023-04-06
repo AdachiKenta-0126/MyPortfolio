@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>パントマイム on MyPortfolio</title>
+    <link>https://AdachiKenta-0126.github.io/MyPortfolio/tags/%E3%83%91%E3%83%B3%E3%83%88%E3%83%9E%E3%82%A4%E3%83%A0/</link>
+    <description>Recent content in パントマイム on MyPortfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Thu, 06 Apr 2023 13:50:47 +0900</lastBuildDate><atom:link href="https://AdachiKenta-0126.github.io/MyPortfolio/tags/%E3%83%91%E3%83%B3%E3%83%88%E3%83%9E%E3%82%A4%E3%83%A0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>パントマイムセンシング</title>
+      <link>https://AdachiKenta-0126.github.io/MyPortfolio/projects/creations/pantomime/</link>
+      <pubDate>Thu, 06 Apr 2023 13:50:47 +0900</pubDate>
+      
+      <guid>https://AdachiKenta-0126.github.io/MyPortfolio/projects/creations/pantomime/</guid>
+      <description>このアプリでは事前研究で得られた上手さと加速度センサのノルムの平均の関係から得られた
+回帰直線の式を用いてセンシングを行い，センシング結果からパントマイムの上手さの評価を行う
+以下の図のように状況によって加速度センサのノルムの値に特徴が出ることが示唆された </description>
+    </item>
+    
+  </channel>
+</rss>
