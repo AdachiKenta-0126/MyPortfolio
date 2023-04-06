@@ -1,0 +1,57 @@
+
+
+<section class="resume-section p-3 p-lg-5 d-flex d-column" id="about">
+  <div class="my-auto">
+    <div class="resume-item d-flex flex-column flex-md-row">
+      <div class="mr-auto">
+
+        <h1 class="mb-0">{{ .Site.Params.firstName }}
+          <span class="text-primary">{{ .Site.Params.lastName }}</span>
+        </h1>
+        <div class="subheading mb-5">{{ .Site.Params.address }} ·
+          <a href="mailto:{{ substr .Site.Params.email 0 5}}-remove-{{ substr .Site.Params.email 5 }}">{{ substr .Site.Params.email 0 5}}<span style="display:none">-remove-</span>{{ substr .Site.Params.email 5 }}</a>
+        </div>
+
+      </div>
+
+      {{ if .Site.Params.showQr }}
+        {{ partial "contact-qr" . }}
+      {{ end }}
+
+  </div>
+  <div>
+    このサイトは足立健太のポートフォリオサイトです<br>
+    <h3>自己紹介</h3>
+    スキル
+    <li>モバイルアプリケーション開発(iOS,Android)
+    <li>画像処理
+    <li>簡易なWebサイト作成<br><br>
+    趣味 <br>
+    <li>カードゲーム<br>
+      Shadowverse EVOLVEにて日本1位を決める招待制大会であるJapan Championshipに出場<br>
+      その他　主にLyceeOverture・MTGをプレイ<br>
+    <img class="cardgame"
+      src="/img/PrayCard.jpg"
+      alt="PlayCardgame">
+    <li>ボードゲーム
+    <li>カラオケ<br>
+    <li>料理<br>
+    etc..<br><br>
+    出身　<br>　岐阜県<br> 現在は大学に通うため愛知県に一人暮らし<br><br>
+    <h5>卒業履歴と卒業予定</h5>
+    <li> 2015年4月 岐阜県立岐阜各務野高等学校 情報科 入学
+    <li> 2018年3月 岐阜県立岐阜各務野高等学校 情報科 卒業
+    <li> 2018年4月 愛知工業大学 情報科学科 コンピュータシステム専攻 入学
+    <li> 2022年3月 愛知工業大学 情報科学科 コンピュータシステム専攻 卒業
+    <li> 2022年4月 愛知工業大学大学院 経営情報科学科 入学
+    <li> 2024年3月 愛知工業大学大学院 経営情報科学科 卒業予定
+    <br><br>
+    <a href="https://school.gifu-net.ed.jp/wordpress/gkakamino-hs/dept_information/">岐阜各務野高等学校　情報科</a>
+    <br>
+    <a href="https://www.ait.ac.jp/faculty/info-science/dep-info/computer/">愛知工業大学　コンピュータシステム専攻</a>
+    <br>
+    <a href="https://www.ait.ac.jp/faculty/lab-info-science/previous/info-science/">愛知工業大学大学院　経営情報科学科</a>
+    <br>
+  </div>
+</div>
+</section>

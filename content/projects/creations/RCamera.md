@@ -4,7 +4,7 @@ date: 2023-03-30T13:09:11+09:00
 featured: true
 description: "NHKで放送されていたRの法則という番組とコラボしてアプリの開発を行い，メインプログラマとして参加しました．<br>学生を応援する番組ということで学生である私たちが欲しい機能の意見を出し合いスマホアプリとして実装しました"
 tags:  ["Objective-C","iPhone","iOS","アプリ"]
-image: "/img/RAppView.webp"
+image: "/img/RAppViewResize.png"
 link: "https://applion.jp/iphone/app/1082991818/"
 fact: "Interesting little tidbit shown below image on summary and detail page"
 weight: 500
