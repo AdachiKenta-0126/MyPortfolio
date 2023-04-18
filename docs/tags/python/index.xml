@@ -6,7 +6,19 @@
     <description>Recent content in Python on MyPortfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Thu, 06 Apr 2023 12:56:46 +0900</lastBuildDate><atom:link href="https://AdachiKenta-0126.github.io/MyPortfolio/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Apr 2023 08:37:45 +0900</lastBuildDate><atom:link href="https://AdachiKenta-0126.github.io/MyPortfolio/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>画像処理を用いた競馬のパドック分析</title>
+      <link>https://AdachiKenta-0126.github.io/MyPortfolio/projects/creations/paddock/</link>
+      <pubDate>Tue, 18 Apr 2023 08:37:45 +0900</pubDate>
+      
+      <guid>https://AdachiKenta-0126.github.io/MyPortfolio/projects/creations/paddock/</guid>
+      <description>競馬には，レース前に競走馬の状態や調子を確認できる時間がある．
+その時間を場所にちなんでパドックという．
+これはパドック映像から画像処理による骨格検出を行うことで，
+競走馬のポテンシャルをパドック映像から見出そうとしたものである．</description>
+    </item>
+    
     <item>
       <title>DrawSimulator</title>
       <link>https://AdachiKenta-0126.github.io/MyPortfolio/projects/creations/carddraw/</link>

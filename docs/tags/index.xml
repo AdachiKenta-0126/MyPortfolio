@@ -6,7 +6,43 @@
     <description>Recent content in Tags on MyPortfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Thu, 06 Apr 2023 13:51:34 +0900</lastBuildDate><atom:link href="https://AdachiKenta-0126.github.io/MyPortfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Apr 2023 08:37:45 +0900</lastBuildDate><atom:link href="https://AdachiKenta-0126.github.io/MyPortfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AnimalPose</title>
+      <link>https://AdachiKenta-0126.github.io/MyPortfolio/tags/animalpose/</link>
+      <pubDate>Tue, 18 Apr 2023 08:37:45 +0900</pubDate>
+      
+      <guid>https://AdachiKenta-0126.github.io/MyPortfolio/tags/animalpose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenCV</title>
+      <link>https://AdachiKenta-0126.github.io/MyPortfolio/tags/opencv/</link>
+      <pubDate>Tue, 18 Apr 2023 08:37:45 +0900</pubDate>
+      
+      <guid>https://AdachiKenta-0126.github.io/MyPortfolio/tags/opencv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://AdachiKenta-0126.github.io/MyPortfolio/tags/python/</link>
+      <pubDate>Tue, 18 Apr 2023 08:37:45 +0900</pubDate>
+      
+      <guid>https://AdachiKenta-0126.github.io/MyPortfolio/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>画像処理</title>
+      <link>https://AdachiKenta-0126.github.io/MyPortfolio/tags/%E7%94%BB%E5%83%8F%E5%87%A6%E7%90%86/</link>
+      <pubDate>Tue, 18 Apr 2023 08:37:45 +0900</pubDate>
+      
+      <guid>https://AdachiKenta-0126.github.io/MyPortfolio/tags/%E7%94%BB%E5%83%8F%E5%87%A6%E7%90%86/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>MacOS</title>
       <link>https://AdachiKenta-0126.github.io/MyPortfolio/tags/macos/</link>
@@ -31,15 +67,6 @@
       <pubDate>Thu, 06 Apr 2023 13:51:34 +0900</pubDate>
       
       <guid>https://AdachiKenta-0126.github.io/MyPortfolio/tags/%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>画像処理</title>
-      <link>https://AdachiKenta-0126.github.io/MyPortfolio/tags/%E7%94%BB%E5%83%8F%E5%87%A6%E7%90%86/</link>
-      <pubDate>Thu, 06 Apr 2023 13:51:34 +0900</pubDate>
-      
-      <guid>https://AdachiKenta-0126.github.io/MyPortfolio/tags/%E7%94%BB%E5%83%8F%E5%87%A6%E7%90%86/</guid>
       <description></description>
     </item>
     
@@ -103,15 +130,6 @@
       <pubDate>Thu, 06 Apr 2023 13:49:42 +0900</pubDate>
       
       <guid>https://AdachiKenta-0126.github.io/MyPortfolio/tags/%E5%8D%93%E7%90%83/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://AdachiKenta-0126.github.io/MyPortfolio/tags/python/</link>
-      <pubDate>Thu, 06 Apr 2023 12:56:46 +0900</pubDate>
-      
-      <guid>https://AdachiKenta-0126.github.io/MyPortfolio/tags/python/</guid>
       <description></description>
     </item>
     

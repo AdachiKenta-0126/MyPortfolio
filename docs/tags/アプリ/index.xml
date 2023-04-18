@@ -34,7 +34,9 @@
       <pubDate>Thu, 30 Mar 2023 13:03:19 +0900</pubDate>
       
       <guid>https://AdachiKenta-0126.github.io/MyPortfolio/projects/creations/aitgo/</guid>
-      <description>グループ演習の講義内にて大学内で遊べるゲームをテーマに3人で作成した通信型AR対戦ゲーム </description>
+      <description>グループ演習の講義内にて大学内で遊べるゲームをテーマに3人で作成した．
+通信型AR対戦ゲームであり，Bluetoothを用いて近くのユーザと通信を行い対戦をする．
+リーダ兼メインプログラマとして参加し，AR空間上に表示する3DCGのキャラもアセット等を利用せず，魅力的なキャラクター作りを目指した．</description>
     </item>
     
   </channel>

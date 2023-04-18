@@ -18,12 +18,24 @@ Don’t mandate DevOps. Give employees the chance to master their discipline wit
     </item>
     
     <item>
+      <title>画像処理を用いた競馬のパドック分析</title>
+      <link>https://AdachiKenta-0126.github.io/MyPortfolio/projects/creations/paddock/</link>
+      <pubDate>Tue, 18 Apr 2023 08:37:45 +0900</pubDate>
+      
+      <guid>https://AdachiKenta-0126.github.io/MyPortfolio/projects/creations/paddock/</guid>
+      <description>競馬には，レース前に競走馬の状態や調子を確認できる時間がある．
+その時間を場所にちなんでパドックという．
+これはパドック映像から画像処理による骨格検出を行うことで，
+競走馬のポテンシャルをパドック映像から見出そうとしたものである．</description>
+    </item>
+    
+    <item>
       <title>画像処理のビジュアルプログラミング</title>
       <link>https://AdachiKenta-0126.github.io/MyPortfolio/projects/creations/visualprogramming/</link>
       <pubDate>Thu, 06 Apr 2023 13:51:34 +0900</pubDate>
       
       <guid>https://AdachiKenta-0126.github.io/MyPortfolio/projects/creations/visualprogramming/</guid>
-      <description>ノード同士を繋げることで処理を実行できる
+      <description>画面上のオブジェクト同士を繋げることで処理を実行できる
 プログラミングのことをビジュアルプログラミングという
 これは画像処理をビジュアルプログラミングに対応させたものである
 Swiftを使って作成したためMacOS上で動作する
@@ -36,9 +48,10 @@ Swiftを使って作成したためMacOS上で動作する
       <pubDate>Thu, 06 Apr 2023 13:50:47 +0900</pubDate>
       
       <guid>https://AdachiKenta-0126.github.io/MyPortfolio/projects/creations/pantomime/</guid>
-      <description>このアプリでは事前研究で得られた上手さと加速度センサのノルムの平均の関係から得られた
-回帰直線の式を用いてセンシングを行い，センシング結果からパントマイムの上手さの評価を行う
-以下の図のように状況によって加速度センサのノルムの値に特徴が出ることが示唆された </description>
+      <description>このアプリでは事前研究で得られたパントマイムの上手さと加速度センサのノルムの平均の
+相関関係から得られた回帰直線の式を用いてパントマイムの評価を行う，
+パントマイム中のセンシング結果からパントマイムの上手さの評価が行える．
+以下の図のように状況によって加速度センサのノルムの値に特徴が出ることが示唆された． </description>
     </item>
     
     <item>
@@ -88,7 +101,9 @@ Swiftを使って作成したためMacOS上で動作する
       <pubDate>Thu, 30 Mar 2023 13:03:19 +0900</pubDate>
       
       <guid>https://AdachiKenta-0126.github.io/MyPortfolio/projects/creations/aitgo/</guid>
-      <description>グループ演習の講義内にて大学内で遊べるゲームをテーマに3人で作成した通信型AR対戦ゲーム </description>
+      <description>グループ演習の講義内にて大学内で遊べるゲームをテーマに3人で作成した．
+通信型AR対戦ゲームであり，Bluetoothを用いて近くのユーザと通信を行い対戦をする．
+リーダ兼メインプログラマとして参加し，AR空間上に表示する3DCGのキャラもアセット等を利用せず，魅力的なキャラクター作りを目指した．</description>
     </item>
     
     <item>
