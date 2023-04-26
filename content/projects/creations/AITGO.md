@@ -17,3 +17,10 @@ sitemap:
 リーダ兼メインプログラマとして参加し，AR空間上に表示する3DCGのキャラもアセット等を利用せず，魅力的なキャラクター作りを目指した．
 
 ![AppView](/img/AITGOPosterResize.png)
+
+![AppView](/img/anpu.png)
+![AppView](/img/tapacha.png)
+![AppView](/img/Irvin.png)
+
+![AppView](/img/AITGO_View1.png)
+![AppView](/img/AITGO_View2.png)

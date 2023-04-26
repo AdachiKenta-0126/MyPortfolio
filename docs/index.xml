@@ -18,6 +18,19 @@ Don’t mandate DevOps. Give employees the chance to master their discipline wit
     </item>
     
     <item>
+      <title>音声認識でMTGのカードを検索する</title>
+      <link>https://AdachiKenta-0126.github.io/MyPortfolio/projects/creations/mtgcardsearch/</link>
+      <pubDate>Wed, 26 Apr 2023 16:45:13 +0900</pubDate>
+      
+      <guid>https://AdachiKenta-0126.github.io/MyPortfolio/projects/creations/mtgcardsearch/</guid>
+      <description>MTG(Magic:The Gathering)のカードを音声認識によって検索を行い表示します
+mtgsdk(https://github.com/MagicTheGathering/mtg-sdk-python)を用いて
+入力されたカード名で検索を行う
+入力はマイクを使って入力できる
+音声認識にはspeech_recognition(https://github.com/Uberi/speech_recognition)を用いた</description>
+    </item>
+    
+    <item>
       <title>画像処理を用いた競馬のパドック分析</title>
       <link>https://AdachiKenta-0126.github.io/MyPortfolio/projects/creations/paddock/</link>
       <pubDate>Tue, 18 Apr 2023 08:37:45 +0900</pubDate>

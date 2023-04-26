@@ -18,4 +18,8 @@ sitemap:
 卓球の試合映像を見ながら打法を入力することで試合の分析を行う
 
 複数試合のデータを集め，各選手に対する有効な一打を判断することができる
+![WebView](/img/kyotaku.png)
+
 ![WebView](/img/kyoutaku.png)
+
+![WebView](/img/kyotaku_result.png)

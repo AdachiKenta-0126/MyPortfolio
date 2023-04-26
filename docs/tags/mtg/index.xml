@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MTG on MyPortfolio</title>
+    <link>https://AdachiKenta-0126.github.io/MyPortfolio/tags/mtg/</link>
+    <description>Recent content in MTG on MyPortfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Wed, 26 Apr 2023 16:45:13 +0900</lastBuildDate><atom:link href="https://AdachiKenta-0126.github.io/MyPortfolio/tags/mtg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>音声認識でMTGのカードを検索する</title>
+      <link>https://AdachiKenta-0126.github.io/MyPortfolio/projects/creations/mtgcardsearch/</link>
+      <pubDate>Wed, 26 Apr 2023 16:45:13 +0900</pubDate>
+      
+      <guid>https://AdachiKenta-0126.github.io/MyPortfolio/projects/creations/mtgcardsearch/</guid>
+      <description>MTG(Magic:The Gathering)のカードを音声認識によって検索を行い表示します
+mtgsdk(https://github.com/MagicTheGathering/mtg-sdk-python)を用いて
+入力されたカード名で検索を行う
+入力はマイクを使って入力できる
+音声認識にはspeech_recognition(https://github.com/Uberi/speech_recognition)を用いた</description>
+    </item>
+    
+  </channel>
+</rss>
